@@ -17,7 +17,7 @@ A curated list of awesome educational games to learn software devolopment relate
 - [Regex](#regex)
 - [SQL](#sql)
 - [TypeScript](#typescript)
-
+- [Various](#various)
 
 ## AI
 
@@ -55,6 +55,7 @@ A curated list of awesome educational games to learn software devolopment relate
 ## Git
 
 - [Learn Git Branching](https://learngitbranching.js.org/) - Interactive Git tutorial that emphasizes branching.
+- [Oh My Git!](https://ohmygit.org) - An open source game about learning Git!
 
 
 ## Hacking
@@ -97,6 +98,7 @@ A curated list of awesome educational games to learn software devolopment relate
 - [Deadlock Empire](https://deadlockempire.github.io/) - Solve puzzles with concurrency.
 - [Screeps](https://screeps.com/) - The world's first MMO strategy sandbox game for programmers.
 - [Swift Playgrounds](https://www.apple.com/swift/playgrounds/) - Learn to code on your iPad in a seriously fun way.
+- [Elevator Saga](https://play.elevatorsaga.com) - The elevator programming game.
 
 
 ## Python
@@ -108,6 +110,7 @@ A curated list of awesome educational games to learn software devolopment relate
 
 - [RegexOne](https://regexone.com/lesson/introduction_abcs) - Learn Regular Expressions with simple, interactive exercises.
 - [RegexLearn](https://regexone.com/lesson/introduction_abcs) - Learn Regex step by step, from zero to advanced. Learning Regex is easier than you think. You can use this tool to easily learn, practice, test and share Regex.
+- [Shlash\Escape](https://www.therobinlord.com/projects/slash-escape) - The first and only slasher themed text based RegEx learning game.
 
 
 ## SQL
@@ -118,3 +121,9 @@ A curated list of awesome educational games to learn software devolopment relate
 
 ## TypeScript
 - [CheckiO](https://checkio.org) - Coding games for beginners and advanced programmers where you can improve your coding skills by solving engaging challenges and fun task using Python and TypeScript
+
+
+## Various
+- [Cybersecurity Escape Room](https://eloeffler.gitlab.io/eloeffler/proto-vcser/)
+- [The Password Game](https://neal.fun/password-game/) - Set the right password
+- [HOCUS :FOCUS](https://focus.hteumeuleu.com) - A keyboard accessibility horror game.
