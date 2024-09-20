@@ -7,14 +7,16 @@ A curated list of awesome educational games to learn software devolopment relate
 - [Assembler](#assembler)
 - [CSS](#css)
 - [Editors](#editors)
-- [Programming](#programming)
 - [Git](#git)
 - [Hacking](#hacking)
+- [JavaScript](#javascript)
 - [Linux](#linux)
 - [Logical](#logical)
+- [Programming](#programming)
+- [Python](#python)
 - [Regex](#regex)
-- [JavaScript](#javascript)
 - [SQL](#sql)
+- [TypeScript](#typescript)
 
 
 ## AI
@@ -48,15 +50,6 @@ A curated list of awesome educational games to learn software devolopment relate
 - [Vim Adventures](https://vim-adventures.com/) - Learning Vim while playing a game.
 - [Vim Genius](http://vimgenius.com/) - Increase your speed and improve your muscle memory with Vim Genius.
 - [PacVim](https://ostechnix.com/pacvim-a-cli-game-to-learn-vim-commands/) - A CLI Game To Learn Vim Commands
-
-
-## Programming
-- [Clips the Game](https://md5crypt.github.io/clipsgame/) - A demanding logic game based on the clips rule engine.
-- [CodinGame](https://www.codingame.com/start) - A challenge-based training platform where you can play with the hottest programming topics.
-- [Cube Composer](https://david-peter.de/cube-composer/) - A puzzle game inspired by functional programming.
-- [Deadlock Empire](https://deadlockempire.github.io/) - Solve puzzles with concurrency.
-- [Screeps](https://screeps.com/) - The world's first MMO strategy sandbox game for programmers.
-- [Swift Playgrounds](https://www.apple.com/swift/playgrounds/) - Learn to code on your iPad in a seriously fun way.
 
 
 ## Git
@@ -95,6 +88,15 @@ A curated list of awesome educational games to learn software devolopment relate
 -- Do not accept any terms & conditions.
 -- Say no to all notifications. 
 -- Always opt out of cookies.
+
+
+## Programming
+- [Clips the Game](https://md5crypt.github.io/clipsgame/) - A demanding logic game based on the clips rule engine.
+- [CodinGame](https://www.codingame.com/start) - A challenge-based training platform where you can play with the hottest programming topics.
+- [Cube Composer](https://david-peter.de/cube-composer/) - A puzzle game inspired by functional programming.
+- [Deadlock Empire](https://deadlockempire.github.io/) - Solve puzzles with concurrency.
+- [Screeps](https://screeps.com/) - The world's first MMO strategy sandbox game for programmers.
+- [Swift Playgrounds](https://www.apple.com/swift/playgrounds/) - Learn to code on your iPad in a seriously fun way.
 
 
 ## Python
