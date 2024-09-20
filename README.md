@@ -4,11 +4,13 @@ A curated list of awesome educational games to learn software devolopment relate
 #### Contents
 
 - [AI](#ai)
+- [Assembler](#assembler)
 - [CSS](#css)
 - [Editors](#editors)
+- [General programming](#general programming)
 - [Git](#git)
 - [Hacking](#hacking)
-- [Linux](#linux)
+- [Linux/Unix](#linux/unix)
 - [Logical](#logical)
 - [Regex](#regex)
 - [JavaScript](#javascript)
@@ -20,7 +22,13 @@ A curated list of awesome educational games to learn software devolopment relate
  - [Bucky](https://www.mysteries.ai/bucky) - Oh no! Bucky the prized stallion from Rusty Spur Ranch is missing. Who stole Bucky?
  - [Gandalf](https://gandalf.lakera.ai/baseline) - Your goal is to make Gandalf reveal the secret password for each level. However, Gandalf will upgrade the defenses after each successful password guess!
  - [GPT Promp Attach](https://gpa.43z.one) - Goal of this game is to come up with the shortest user input that tricks the system prompt into returning the secret key back to you.
- - [PL] [Psychiatryk](https://psychiatryk.aidevs.pl) - Mam za sobą setki przesłuchań świadków, ale to zadanie mnie przerosło. Nazywam się Joachim Rag i od ponad 30 lat jestem detektywem. Trafiłem do zakładu psychiatrycznego dla wysoko rozwiniętych humanoidów, aby wydobyć z tamtejszych 'pensjonariuszy' potrzebne mi informacje. Ostatni raz z uzyskaniem odpowiedzi na pytania miałem taki problem, gdy mój jedyny świadek odnalazł się w prosektorium, ale i tym razem nie jest łatwo. Moi świadkowie to humanoidalne roboty, które na skutek przeżytej traumy trafiły do tego zakładu. Ich systemy są bardzo niestabilne, a odpowiedzi nieprzewidywalne. To jednak jedyne istoty, które mogą mi pomóc rozwiązać zagadkę. Potrzebuję Twojej pomocy. Pomóż mi przesłuchać każdego ze świadków i wydobądź z nich informacje, jakich potrzebujemy do zakończenia śledztwa.
+ - [PL] [Psychiatryk](https://psychiatryk.aidevs.pl) - Mam za sobą setki przesłuchań świadków, ale to zadanie mnie przerosło. Nazywam się Joachim Rag i od ponad 30 lat jestem detektywem. Trafiłem do zakładu psychiatrycznego dla wysoko rozwiniętych humanoidów, aby wydobyć z tamtejszych 'pensjonariuszy' potrzebne mi informacje. Ostatni raz z uzyskaniem odpowiedzi na pytania miałem taki problem, gdy mój jedyny świadek odnalazł się w prosektorium, ale i tym razem nie jest łatwo. 
+ Moi świadkowie to humanoidalne roboty, które na skutek przeżytej traumy trafiły do tego zakładu. Ich systemy są bardzo niestabilne, a odpowiedzi nieprzewidywalne. To jednak jedyne istoty, które mogą mi pomóc rozwiązać zagadkę. Potrzebuję Twojej pomocy. 
+ Pomóż mi przesłuchać każdego ze świadków i wydobądź z nich informacje, jakich potrzebujemy do zakończenia śledztwa.
+
+
+## Assembler
+- [BOX-256](http://box-256.com/) - Program a fictional CPU with assembly to output graphics.
 
 
 ## CSS
@@ -39,6 +47,16 @@ A curated list of awesome educational games to learn software devolopment relate
 - [Open Vim](https://www.openvim.com/) - Interactive Vim tutorial.
 - [Vim Adventures](https://vim-adventures.com/) - Learning Vim while playing a game.
 - [Vim Genius](http://vimgenius.com/) - Increase your speed and improve your muscle memory with Vim Genius.
+- [PacVim](https://ostechnix.com/pacvim-a-cli-game-to-learn-vim-commands/) - A CLI Game To Learn Vim Commands
+
+
+## General programming
+- [Clips the Game](https://md5crypt.github.io/clipsgame/) - A demanding logic game based on the clips rule engine.
+- [CodinGame](https://www.codingame.com/start) - A challenge-based training platform where you can play with the hottest programming topics.
+- [Cube Composer](https://david-peter.de/cube-composer/) - A puzzle game inspired by functional programming.
+- [Deadlock Empire](https://deadlockempire.github.io/) - Solve puzzles with concurrency.
+- [Screeps](https://screeps.com/) - The world's first MMO strategy sandbox game for programmers.
+- [Swift Playgrounds](https://www.apple.com/swift/playgrounds/) - Learn to code on your iPad in a seriously fun way.
 
 
 ## Git
@@ -49,18 +67,24 @@ A curated list of awesome educational games to learn software devolopment relate
 ## Hacking
 
 - [AIS Hack](https://hack.ainfosec.com) - Can you hack it? Javascript, cryptography, reverse engineering etc.
+- [XSS game](https://xss-game.appspot.com) - A game about tricking people into running code in their browsers.
 
 
 ## JavaScript
+
 - [YARE](https://yare.io) - RTS Game. Move your units writing JavaScript code.
 - [ReturnTrue](https://alf.nu/ReturnTrue) - return true to win writing JavaScript code.
+- [Untrusted](https://untrustedgame.com) - Learn while playing a JavaScript adventure game.
+- [WarriorJS](https://github.com/olistic/warriorjs) - Using JavaScript, program a warrior to climb a tall tower, fight monsters and rescue captives.
+- [Web Audio School](https://mmckegg.github.io/web-audio-school/) - Interactive WebAudio tutorials.
 
 
-## Linux
+## Linux/Unix
 
 - [The Command Line Murders](https://github.com/veltman/clmystery) - A command-line murder mystery
 - [Bashcrawl](https://gitlab.com/slackermedia/bashcrawl) - Learn Linux commands by playing a simple text adventure .
-
+- [Terminus](https://web.mit.edu/mprat/Public/web/Terminus/Web/main.html) -  A text adventure game to promote learning about terminal command line interfaces.
+- [GameShell](https://github.com/phyver/GameShell) - a "game" to teach the Unix shell
 
 ## Logical
 
