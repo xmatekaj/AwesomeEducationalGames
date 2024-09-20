@@ -7,10 +7,10 @@ A curated list of awesome educational games to learn software devolopment relate
 - [Assembler](#assembler)
 - [CSS](#css)
 - [Editors](#editors)
-- [General programming](#general programming)
+- [Programming](#programming)
 - [Git](#git)
 - [Hacking](#hacking)
-- [Linux/Unix](#linux/unix)
+- [Linux](#linux)
 - [Logical](#logical)
 - [Regex](#regex)
 - [JavaScript](#javascript)
@@ -50,7 +50,7 @@ A curated list of awesome educational games to learn software devolopment relate
 - [PacVim](https://ostechnix.com/pacvim-a-cli-game-to-learn-vim-commands/) - A CLI Game To Learn Vim Commands
 
 
-## General programming
+## Programming
 - [Clips the Game](https://md5crypt.github.io/clipsgame/) - A demanding logic game based on the clips rule engine.
 - [CodinGame](https://www.codingame.com/start) - A challenge-based training platform where you can play with the hottest programming topics.
 - [Cube Composer](https://david-peter.de/cube-composer/) - A puzzle game inspired by functional programming.
@@ -79,7 +79,7 @@ A curated list of awesome educational games to learn software devolopment relate
 - [Web Audio School](https://mmckegg.github.io/web-audio-school/) - Interactive WebAudio tutorials.
 
 
-## Linux/Unix
+## Linux
 
 - [The Command Line Murders](https://github.com/veltman/clmystery) - A command-line murder mystery
 - [Bashcrawl](https://gitlab.com/slackermedia/bashcrawl) - Learn Linux commands by playing a simple text adventure .
