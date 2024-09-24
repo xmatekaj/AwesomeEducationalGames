@@ -31,6 +31,8 @@ A curated list of awesome educational games to learn software devolopment relate
 
 ## Assembler
 - [BOX-256](http://box-256.com/) - Program a fictional CPU with assembly to output graphics.
+- [Microcorruption](https://microcorruption.com) - Defeat the lock by exploiting bugs in the device's code.
+- [Much Assembly Required](https://github.com/simon987/Much-Assembly-Required) - program the 8086-like microprocessor of a robot in a grid-based multiplayer world. 
 
 
 ## CSS
@@ -42,6 +44,8 @@ A curated list of awesome educational games to learn software devolopment relate
 - [Flexbox with Webflow](https://www.flexboxgame.com/) - Learn and master flexbox in 28 interactive levels—without writing code.
 - [Euismod](https://www.euismod.dev/#/learn) - Interactive lessons to learn CSS Grid
 - [Flexbox Defense](http://www.flexboxdefense.com) - Tower defense game. Put your towers on the map using CSS.
+- [Hex Invaders](http://www.hexinvaders.com/) - Your objective is to destroy the invader that matches the supplied hex code at the top of your screen.
+- [Grid Garden](https://cssgridgarden.com/) - Learn CSS Grid by going through 28 levels of Grid Garden.
 
 
 ## Editors
@@ -71,6 +75,7 @@ A curated list of awesome educational games to learn software devolopment relate
 - [Untrusted](https://untrustedgame.com) - Learn while playing a JavaScript adventure game.
 - [WarriorJS](https://github.com/olistic/warriorjs) - Using JavaScript, program a warrior to climb a tall tower, fight monsters and rescue captives.
 - [Web Audio School](https://mmckegg.github.io/web-audio-school/) - Interactive WebAudio tutorials.
+- [Elevator Saga](https://play.elevatorsaga.com) - JavaScript game where you will go through a series of challenges trying to transport people in elevators in the most efficient way possible within the time given
 
 
 ## Linux
@@ -79,6 +84,9 @@ A curated list of awesome educational games to learn software devolopment relate
 - [Bashcrawl](https://gitlab.com/slackermedia/bashcrawl) - Learn Linux commands by playing a simple text adventure .
 - [Terminus](https://web.mit.edu/mprat/Public/web/Terminus/Web/main.html) -  A text adventure game to promote learning about terminal command line interfaces.
 - [GameShell](https://github.com/phyver/GameShell) - a "game" to teach the Unix shell
+- [Command Challenge](https://cmdchallenge.com/) - Checks your terminal skills
+- [Halloween Server](https://joel.tools/halloween/) - A text adventure game
+
 
 ## Logical
 
@@ -98,7 +106,8 @@ A curated list of awesome educational games to learn software devolopment relate
 - [Deadlock Empire](https://deadlockempire.github.io/) - Solve puzzles with concurrency.
 - [Screeps](https://screeps.com/) - The world's first MMO strategy sandbox game for programmers.
 - [Swift Playgrounds](https://www.apple.com/swift/playgrounds/) - Learn to code on your iPad in a seriously fun way.
-- [Elevator Saga](https://play.elevatorsaga.com) - The elevator programming game.
+- [Colobot](https://colobot.info) - Colobot: Gold Edition is a real-time strategy game, where you can program your units (bots) in a language called CBOT, which is similar to C++ and Java. Your mission is to find a new planet to live and survive. Save humanity and get programming skills!
+- [Scratch](https://scratch.mit.edu) - MIT's Scratch is a block based programming language where you can learn about events, conditionals, variables, and more by building your own games and animations.
 
 
 ## Python
