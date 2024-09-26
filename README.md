@@ -9,15 +9,19 @@ A curated list of awesome educational games to learn software devolopment relate
 - [Editors](#editors)
 - [Git](#git)
 - [Hacking](#hacking)
+- [Java](#java)
 - [JavaScript](#javascript)
 - [Linux](#linux)
 - [Logical](#logical)
 - [Programming](#programming)
 - [Python](#python)
 - [Regex](#regex)
+- [Ruby](#ruby)
+- [Rust](#rust)
 - [SQL](#sql)
 - [TypeScript](#typescript)
 - [Various](#various)
+
 
 ## AI
 
@@ -68,6 +72,12 @@ A curated list of awesome educational games to learn software devolopment relate
 - [XSS game](https://xss-game.appspot.com) - A game about tricking people into running code in their browsers.
 
 
+## Java
+
+- [Robocode](https://robocode.sourceforge.io) - Robocode is a programming game, where the goal is to develop a robot battle tank to battle against other tanks in Java. The robot battles are running in real-time and on-screen.
+- [_Terminal](https://terminal.c1games.com/) - Correlation One’s Terminal is a member of the Tower Defense game genre. It is a two-player, simultaneous-turns game that takes place on a diamond-shaped arena. One player occupies the bottom half of the arena, while the other player occupies the top half. The objective is to reduce your opponents health to zero. You can do this by advancing Mobile units to your opponent's edge and building Structures to protect your own edges.
+ 
+
 ## JavaScript
 
 - [YARE](https://yare.io) - RTS Game. Move your units writing JavaScript code.
@@ -76,6 +86,7 @@ A curated list of awesome educational games to learn software devolopment relate
 - [WarriorJS](https://github.com/olistic/warriorjs) - Using JavaScript, program a warrior to climb a tall tower, fight monsters and rescue captives.
 - [Web Audio School](https://mmckegg.github.io/web-audio-school/) - Interactive WebAudio tutorials.
 - [Elevator Saga](https://play.elevatorsaga.com) - JavaScript game where you will go through a series of challenges trying to transport people in elevators in the most efficient way possible within the time given
+- [Bitburner](https://store.steampowered.com/app/1812820/Bitburner/) - Bitburner is a programming-based incremental game. Write scripts in JavaScript to automate gameplay, learn skills, play minigames, solve puzzles, and more in this cyberpunk text-based incremental RPG.
 
 
 ## Linux
@@ -108,11 +119,14 @@ A curated list of awesome educational games to learn software devolopment relate
 - [Swift Playgrounds](https://www.apple.com/swift/playgrounds/) - Learn to code on your iPad in a seriously fun way.
 - [Colobot](https://colobot.info) - Colobot: Gold Edition is a real-time strategy game, where you can program your units (bots) in a language called CBOT, which is similar to C++ and Java. Your mission is to find a new planet to live and survive. Save humanity and get programming skills!
 - [Scratch](https://scratch.mit.edu) - MIT's Scratch is a block based programming language where you can learn about events, conditionals, variables, and more by building your own games and animations.
+- [Blockly Games: Maze](https://blockly.games/maze) - Code your way out of the maze
 
 
 ## Python
 
 - [CheckiO](https://checkio.org) - Coding games for beginners and advanced programmers where you can improve your coding skills by solving engaging challenges and fun task using Python and TypeScript
+- [_Terminal](https://terminal.c1games.com/) - Correlation One’s Terminal is a member of the Tower Defense game genre. It is a two-player, simultaneous-turns game that takes place on a diamond-shaped arena. One player occupies the bottom half of the arena, while the other player occupies the top half. The objective is to reduce your opponents health to zero. You can do this by advancing Mobile units to your opponent's edge and building Structures to protect your own edges.
+- [The Python Crime Game](https://curbal.com/curbal-learning-portal/the-python-crime-game) - learn python, pandas, numpy, matplotlib and other libraries
 
 
 ## Regex
@@ -120,6 +134,16 @@ A curated list of awesome educational games to learn software devolopment relate
 - [RegexOne](https://regexone.com/lesson/introduction_abcs) - Learn Regular Expressions with simple, interactive exercises.
 - [RegexLearn](https://regexone.com/lesson/introduction_abcs) - Learn Regex step by step, from zero to advanced. Learning Regex is easier than you think. You can use this tool to easily learn, practice, test and share Regex.
 - [Shlash\Escape](https://www.therobinlord.com/projects/slash-escape) - The first and only slasher themed text based RegEx learning game.
+
+
+## Ruby
+
+- [Ruby Warrior](https://github.com/ryanb/ruby-warrior) - You play as a warrior climbing a tall tower to reach the precious Ruby at the top level. On each floor you need to write a Ruby script to instruct the warrior to battle enemies, rescue captives, and reach the stairs. You have some idea of what each floor contains, but you never know for certain what will happen. You must give the Warrior enough artificial intelligence up-front to find his own way.
+
+
+## Rust
+
+- [_Terminal](https://terminal.c1games.com/) - Correlation One’s Terminal is a member of the Tower Defense game genre. It is a two-player, simultaneous-turns game that takes place on a diamond-shaped arena. One player occupies the bottom half of the arena, while the other player occupies the top half. The objective is to reduce your opponents health to zero. You can do this by advancing Mobile units to your opponent's edge and building Structures to protect your own edges.
 
 
 ## SQL
