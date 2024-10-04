@@ -1,5 +1,7 @@
 # Awesome Educational Games
-A curated list of awesome educational games to learn software devolopment related topics. All are free if not marked differently. 
+A curated list of awesome educational games to learn software devolopment related topics.
+
+All are free if not marked differently. 
 
 #### Contents
 
@@ -14,6 +16,7 @@ A curated list of awesome educational games to learn software devolopment relate
 - [JavaScript](#javascript)
 - [Linux](#linux)
 - [Logical](#logical)
+- [Lua](#lua)
 - [Programming](#programming)
 - [Python](#python)
 - [Regex](#regex)
@@ -36,9 +39,11 @@ A curated list of awesome educational games to learn software devolopment relate
 
 
 ## Assembler
+
 - [BOX-256](http://box-256.com/) - Program a fictional CPU with assembly to output graphics.
 - [Microcorruption](https://microcorruption.com) - Defeat the lock by exploiting bugs in the device's code.
 - [Much Assembly Required](https://github.com/simon987/Much-Assembly-Required) - program the 8086-like microprocessor of a robot in a grid-based multiplayer world. 
+- [$] [TIS-100](https://www.zachtronics.com/tis-100/) - TIS-100 is an open-ended programming game in which you rewrite corrupted code segments to repair the TIS-100 and unlock its secrets. It's the assembly language programming game you never asked for!
 
 
 ## CSS
@@ -57,8 +62,7 @@ A curated list of awesome educational games to learn software devolopment relate
 - [Hex Invaders](http://www.hexinvaders.com/) - Your objective is to destroy the invader that matches the supplied hex code at the top of your screen.
 - [Kerntype](https://type.method.ac/#) - A letter spacing game.
 - [Perfect Paragraph](https://betterwebtype.com/triangle/) - A web typography learning game.
-- ($)[Grid Critters](https://gridcritters.com) - Your mission is to use your ship's powerful Grid tool to save alien critters from extinction and learn CSS grid in the process!
-
+- [$] [Grid Critters](https://gridcritters.com) - Your mission is to use your ship's powerful Grid tool to save alien critters from extinction and learn CSS grid in the process!
 
 
 ## Editors
@@ -103,10 +107,9 @@ A curated list of awesome educational games to learn software devolopment relate
 - [WarriorJS](https://github.com/olistic/warriorjs) - Using JavaScript, program a warrior to climb a tall tower, fight monsters and rescue captives.
 - [Web Audio School](https://mmckegg.github.io/web-audio-school/) - Interactive WebAudio tutorials.
 - [YARE](https://yare.io) - RTS Game. Move your units writing JavaScript code.
-- [$][Screeps](https://screeps.com) - Open-source game for programmers, wherein the core mechanic is programming
+- [$] [Screeps](https://screeps.com) - Open-source game for programmers, wherein the core mechanic is programming
 your units' AI. You control your colony by writing JavaScript.
-- [$][Service Workies](https://serviceworkies.com) - Learn Progressive Web App development. 
-
+- [$] [Service Workies](https://serviceworkies.com) - Learn Progressive Web App development. 
 
 
 ## Linux
@@ -130,16 +133,26 @@ your units' AI. You control your colony by writing JavaScript.
 -- Always opt out of cookies.
 
 
+## Lua
+
+- [Mudlet](https://www.mudlet.org/about/) - Game client that allows you to play MUDs (text-only MMORPGs). You can write Lua code in Mudlet to help you play MUDs.
+
+
 ## Programming
+- [Blockly Games: Maze](https://blockly.games/maze) - Code your way out of the maze
 - [Clips the Game](https://md5crypt.github.io/clipsgame/) - A demanding logic game based on the clips rule engine.
 - [CodinGame](https://www.codingame.com/start) - A challenge-based training platform where you can play with the hottest programming topics.
+- [Colobot](https://colobot.info) - Colobot: Gold Edition is a real-time strategy game, where you can program your units (bots) in a language called CBOT, which is similar to C++ and Java. Your mission is to find a new planet to live and survive. Save humanity and get programming skills!
+- [CoreWars](http://www.corewars.org/index.html) - Core War is a game played by two or more programs (and vicariously by their authors) written in an assembly language called Redcode and run in a virtual computer called MARS (for Memory Array Redcode Simulator). The object of the game is to cause all processes of the opposing program to terminate, leaving your program in sole posession of the machine.
 - [Cube Composer](https://david-peter.de/cube-composer/) - A puzzle game inspired by functional programming.
 - [Deadlock Empire](https://deadlockempire.github.io/) - Solve puzzles with concurrency.
+- [Guido van Robot](https://gvr.sourceforge.net) - Guido van Robot, or GvR for short, is a programming language and free software application designed to introduce beginners to the fundamentals of programming. GvR runs on Windows, Macintosh, and GNU/Linux, in a variety of languages! It's great in both the classroom and the home as a way of introducing people to the basic concepts of programming.
+- [Scratch](https://scratch.mit.edu) - MIT's Scratch is a block based programming language where you can learn about events, conditionals, variables, and more by building your own games and animations.
 - [Screeps](https://screeps.com/) - The world's first MMO strategy sandbox game for programmers.
 - [Swift Playgrounds](https://www.apple.com/swift/playgrounds/) - Learn to code on your iPad in a seriously fun way.
-- [Colobot](https://colobot.info) - Colobot: Gold Edition is a real-time strategy game, where you can program your units (bots) in a language called CBOT, which is similar to C++ and Java. Your mission is to find a new planet to live and survive. Save humanity and get programming skills!
-- [Scratch](https://scratch.mit.edu) - MIT's Scratch is a block based programming language where you can learn about events, conditionals, variables, and more by building your own games and animations.
-- [Blockly Games: Maze](https://blockly.games/maze) - Code your way out of the maze
+- [$] [CodeGames](https://codegames.io/en) - Real time programming game where you compete against other players by coding the behaviour of a space ship. The programming language is easy to learn and the game is super fun. Subscribe to one of our tournaments and compete for the prize.
+- [$] [MHRD](https://store.steampowered.com/app/576030/MHRD/) - MHRD is a hardware design game, in which you design various hardware circuits in a hardware description language. The hardware circuits you design get more complex as you go until you create a fully functional CPU design.
+- [$] [Shenzhen I/O](https://www.zachtronics.com/shenzhen-io/) - Build circuits using a variety of components from different manufacturers, like microcontrollers, memory, and logic gates. Write code in a compact and powerful assembly language where every instruction can be conditionally executed.
 
 
 ## Python
@@ -173,6 +186,7 @@ your units' AI. You control your colony by writing JavaScript.
 ## Scala
 - [Scalatron](https://scalatron.github.io/index.html) - Scalatron is a free, open-source programming game in which bots, written in Scala, compete in a virtual arena for energy and survival. You can play by yourself against the computer or organize a tournament with friends. 
 
+
 ## SQL
 
 - [SQL Murder Mystery](https://mystery.knightlab.com/) - Solve a crime while practicing database skills.
@@ -184,6 +198,7 @@ your units' AI. You control your colony by writing JavaScript.
 
 
 ## Various
+- [Amazon S3 challenge](http://s3game-level1.s3-website.us-east-2.amazonaws.com) - Through a series of levels, you'll learn some of the Amazon S3 features.
 - [Cybersecurity Escape Room](https://eloeffler.gitlab.io/eloeffler/proto-vcser/)
 - [The Password Game](https://neal.fun/password-game/) - Set the right password
 - [HOCUS :FOCUS](https://focus.hteumeuleu.com) - A keyboard accessibility horror game.
