@@ -1,4 +1,4 @@
-# Awesome Educational Games
+# < Awesome Educational Games />
 A curated list of awesome educational games to learn software devolopment related topics.
 
 All are free if not marked differently. 
@@ -124,8 +124,10 @@ your units' AI. You control your colony by writing JavaScript.
 
 ## Logical
 
-- [Mystery-O-Matic](https://mystery-o-matic.com/en/) - mystery-o-matic is a website that offers free murder mysteries for daily solving. It was created by two passionate individuals who share a deep love for mystery and a strong dedication to offering a unique experience to fellow detectives.
 - [Eight Colors](http://eightcolors.net/) - Eight Colors is a block shifting game. The Goal? Shift circular blocks to reach the target given.
+- [Digital Logic Design](https://asteriskman7.github.io/dldtg/) - This game combines elements of traditional incremental games like Cookie Clicker with more complex elements designed apeal to someone interested in clicking less and thinking more.
+- [Mystery-O-Matic](https://mystery-o-matic.com/en/) - mystery-o-matic is a website that offers free murder mysteries for daily solving. It was created by two passionate individuals who share a deep love for mystery and a strong dedication to offering a unique experience to fellow detectives.
+- [Nandgame](https://nandgame.com) - Your task is to connect inputs to output through wires and relays such that when both a and b inputs are 1, the output is 0.
 - [Sokyokuban](https://sokyokuban.com) - Sokoban game
 - [Terms and Conditions](https://www.termsandconditions.game) - A mini-game about pop ups, and the deviousness of websites and apps. EVIL CORP wants your data. It will use every trick in the book (and a few more, just for fun). Your mission is as follows: 
 -- Do not accept any terms & conditions.
@@ -139,6 +141,7 @@ your units' AI. You control your colony by writing JavaScript.
 
 
 ## Programming
+
 - [Blockly Games: Maze](https://blockly.games/maze) - Code your way out of the maze
 - [Clips the Game](https://md5crypt.github.io/clipsgame/) - A demanding logic game based on the clips rule engine.
 - [CodinGame](https://www.codingame.com/start) - A challenge-based training platform where you can play with the hottest programming topics.
@@ -147,12 +150,28 @@ your units' AI. You control your colony by writing JavaScript.
 - [Cube Composer](https://david-peter.de/cube-composer/) - A puzzle game inspired by functional programming.
 - [Deadlock Empire](https://deadlockempire.github.io/) - Solve puzzles with concurrency.
 - [Guido van Robot](https://gvr.sourceforge.net) - Guido van Robot, or GvR for short, is a programming language and free software application designed to introduce beginners to the fundamentals of programming. GvR runs on Windows, Macintosh, and GNU/Linux, in a variety of languages! It's great in both the classroom and the home as a way of introducing people to the basic concepts of programming.
+- [Google Turing Doodle](https://www.google.com/doodles/alan-turings-100th-birthday) - a live action Turing Machine with twelve interactive programming puzzles.
 - [Scratch](https://scratch.mit.edu) - MIT's Scratch is a block based programming language where you can learn about events, conditionals, variables, and more by building your own games and animations.
 - [Screeps](https://screeps.com/) - The world's first MMO strategy sandbox game for programmers.
 - [Swift Playgrounds](https://www.apple.com/swift/playgrounds/) - Learn to code on your iPad in a seriously fun way.
+- [Turing Game](http://turing-game.pl) - Program the robot to help it escape from its cell.
 - [$] [CodeGames](https://codegames.io/en) - Real time programming game where you compete against other players by coding the behaviour of a space ship. The programming language is easy to learn and the game is super fun. Subscribe to one of our tournaments and compete for the prize.
+- [$] [EXAPUNKS](https://store.steampowered.com/app/716490/EXAPUNKS/) - The year is 1997. You used to be a hacker, but now you have the phage. You made a deal: one hack, one dose. There’s nothing left to lose… except your life.
+- [$] [Factorio](https://www.factorio.com) - You will be mining resources, researching technologies, building infrastructure, automating production, and fighting enemies. Use your imagination to design your factory, combine simple elements into ingenious structures, apply management skills to keep it working, and protect it from the creatures who don't really like you.
+- [$] [Human Resource Machine](https://tomorrowcorporation.com/humanresourcemachine) - Program little office workers to solve puzzles. Be a good employee! The machines are coming... for your job.
+- [$] [Infinifactory](https://www.zachtronics.com/infinifactory/) - Build factories that assemble products for your alien overlords, and try not to die in the process.
+- [$] [Hour of Code](https://code.org/learn) - Many puzzle games about programming and algorithms
+- [$] [Mindustry](https://mindustrygame.github.io) - A sandbox tower-defense game. Defend your base from waves of powerful enemies. A high-level Mindustry base in combat with a wave of many low-level enemies.
 - [$] [MHRD](https://store.steampowered.com/app/576030/MHRD/) - MHRD is a hardware design game, in which you design various hardware circuits in a hardware description language. The hardware circuits you design get more complex as you go until you create a fully functional CPU design.
+- [$] [Opus Magnum](https://www.zachtronics.com/opus-magnum/) - Design and build machines that carry out alchemical processes using a variety of components.
+- [$] [Recursed](https://store.steampowered.com/app/497780/Recursed/) - A puzzle game where the rooms are items and the items are rooms. Get to the goal by moving, rearranging and duplicating rooms and altering the structure of the world.
+- [$] [Rogue Bit](https://store.steampowered.com/app/949790/Rogue_Bit/) - A single bit of computer memory became sentient and decided to escape from digital into the real world. Explore RAM, modify bytes and hack machine code and CPU registers to set it free.
 - [$] [Shenzhen I/O](https://www.zachtronics.com/shenzhen-io/) - Build circuits using a variety of components from different manufacturers, like microcontrollers, memory, and logic gates. Write code in a compact and powerful assembly language where every instruction can be conditionally executed.
+- [$] [Spacechem](https://www.zachtronics.com/spacechem/) - SpaceChem is an obscenely addictive, design-based puzzle game about building machines and fighting monsters in the name of science! 
+Take on the role of a Reactor Engineer working for SpaceChem, the leading chemical synthesizer for frontier colonies. Construct elaborate factories to transform raw materials into valuable chemical products! Streamline your designs to meet production quotas and survive encounters with the sinister threats that plague SpaceChem.
+- [$] [while True: learn()](https://store.steampowered.com/app/619150/while_True_learn/) - You’re a machine learning specialist who makes neural networks but your cat seems to be better at it. Now you must solve puzzles to build a cat-to-human translation system (who knows what else this cat is capable of!). Earn a fortune, buy kickass cat outfits, learn how machine learning really works!
+- [$] [Turing Complete](https://store.steampowered.com/app/1444480/Turing_Complete/) - Learn CPU architecture with puzzles
+
 
 
 ## Python
