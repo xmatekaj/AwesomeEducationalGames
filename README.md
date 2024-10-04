@@ -1,5 +1,5 @@
 # Awesome Educational Games
-A curated list of awesome educational games to learn software devolopment related topics.
+A curated list of awesome educational games to learn software devolopment related topics. All are free if not marked differently. 
 
 #### Contents
 
@@ -9,6 +9,7 @@ A curated list of awesome educational games to learn software devolopment relate
 - [Editors](#editors)
 - [Git](#git)
 - [Hacking](#hacking)
+- [HTML](#html)
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Linux](#linux)
@@ -18,6 +19,7 @@ A curated list of awesome educational games to learn software devolopment relate
 - [Regex](#regex)
 - [Ruby](#ruby)
 - [Rust](#rust)
+- [Scala](#scala)
 - [SQL](#sql)
 - [TypeScript](#typescript)
 - [Various](#various)
@@ -41,23 +43,30 @@ A curated list of awesome educational games to learn software devolopment relate
 
 ## CSS
 
+- [CSS Battle](https://cssbattle.dev) - Replicate the target images using CSS - the shorter your code, the higher your score! 
 - [CSS Diner](https://flukeout.github.io/) - It's a little game to help you learn CSS selectors.
 - [CSS Grid Garden](http://cssgridgarden.com/) - A game for learning CSS grid layout.
+- [CSS Speedrun](https://css-speedrun.netlify.app) - A small fun app to test your CSS knowledge. Find the correct CSS selectors for the 10 puzzles as fast as possible.
+- [Euismod](https://www.euismod.dev/#/learn) - Interactive lessons to learn CSS Grid
 - [Flexbox Defense](http://www.flexboxdefense.com/) - Unlike other tower defense games, you must position your towers using CSS!
 - [Flexbox Froggy](http://flexboxfroggy.com/) - A game for learning CSS flexbox.
 - [Flexbox with Webflow](https://www.flexboxgame.com/) - Learn and master flexbox in 28 interactive levels—without writing code.
-- [Euismod](https://www.euismod.dev/#/learn) - Interactive lessons to learn CSS Grid
 - [Flexbox Defense](http://www.flexboxdefense.com) - Tower defense game. Put your towers on the map using CSS.
-- [Hex Invaders](http://www.hexinvaders.com/) - Your objective is to destroy the invader that matches the supplied hex code at the top of your screen.
+- [Flexbox Zombies](https://flexboxzombies.com/p/flexbox-zombies) - Become an expert of layout with flexbox while trying to survive the zombie apocalypse.
 - [Grid Garden](https://cssgridgarden.com/) - Learn CSS Grid by going through 28 levels of Grid Garden.
+- [Hex Invaders](http://www.hexinvaders.com/) - Your objective is to destroy the invader that matches the supplied hex code at the top of your screen.
+- [Kerntype](https://type.method.ac/#) - A letter spacing game.
+- [Perfect Paragraph](https://betterwebtype.com/triangle/) - A web typography learning game.
+- ($)[Grid Critters](https://gridcritters.com) - Your mission is to use your ship's powerful Grid tool to save alien critters from extinction and learn CSS grid in the process!
+
 
 
 ## Editors
 
 - [Open Vim](https://www.openvim.com/) - Interactive Vim tutorial.
+- [PacVim](https://ostechnix.com/pacvim-a-cli-game-to-learn-vim-commands/) - A CLI Game To Learn Vim Commands
 - [Vim Adventures](https://vim-adventures.com/) - Learning Vim while playing a game.
 - [Vim Genius](http://vimgenius.com/) - Increase your speed and improve your muscle memory with Vim Genius.
-- [PacVim](https://ostechnix.com/pacvim-a-cli-game-to-learn-vim-commands/) - A CLI Game To Learn Vim Commands
 
 
 ## Git
@@ -72,6 +81,11 @@ A curated list of awesome educational games to learn software devolopment relate
 - [XSS game](https://xss-game.appspot.com) - A game about tricking people into running code in their browsers.
 
 
+# HTML
+
+- [Emmet Game](https://ahndohun.github.io/emmet-game/) - Learn CSS, HTML and [Emmet](https://docs.emmet.io).
+
+
 ## Java
 
 - [Robocode](https://robocode.sourceforge.io) - Robocode is a programming game, where the goal is to develop a robot battle tank to battle against other tanks in Java. The robot battles are running in real-time and on-screen.
@@ -80,13 +94,19 @@ A curated list of awesome educational games to learn software devolopment relate
 
 ## JavaScript
 
-- [YARE](https://yare.io) - RTS Game. Move your units writing JavaScript code.
+- [Bitburner](https://store.steampowered.com/app/1812820/Bitburner/) - Bitburner is a programming-based incremental game. Write scripts in JavaScript to automate gameplay, learn skills, play minigames, solve puzzles, and more in this cyberpunk text-based incremental RPG.
+- [Code Monster](https://www.crunchzilla.com/code-monster) - Code Monster from Crunchzilla is an interactive tutorial for kids that focuses on action. Code changes immediately yield visible results.
+- [Elevator Saga](https://play.elevatorsaga.com) - JavaScript game where you will go through a series of challenges trying to transport people in elevators in the most efficient way possible within the time given
+- [JS Robot](https://lab.reaal.me/jsrobot/) -  Use JavaScript to help a tiny robot collect coins. 
 - [ReturnTrue](https://alf.nu/ReturnTrue) - return true to win writing JavaScript code.
 - [Untrusted](https://untrustedgame.com) - Learn while playing a JavaScript adventure game.
 - [WarriorJS](https://github.com/olistic/warriorjs) - Using JavaScript, program a warrior to climb a tall tower, fight monsters and rescue captives.
 - [Web Audio School](https://mmckegg.github.io/web-audio-school/) - Interactive WebAudio tutorials.
-- [Elevator Saga](https://play.elevatorsaga.com) - JavaScript game where you will go through a series of challenges trying to transport people in elevators in the most efficient way possible within the time given
-- [Bitburner](https://store.steampowered.com/app/1812820/Bitburner/) - Bitburner is a programming-based incremental game. Write scripts in JavaScript to automate gameplay, learn skills, play minigames, solve puzzles, and more in this cyberpunk text-based incremental RPG.
+- [YARE](https://yare.io) - RTS Game. Move your units writing JavaScript code.
+- [$][Screeps](https://screeps.com) - Open-source game for programmers, wherein the core mechanic is programming
+your units' AI. You control your colony by writing JavaScript.
+- [$][Service Workies](https://serviceworkies.com) - Learn Progressive Web App development. 
+
 
 
 ## Linux
@@ -131,8 +151,12 @@ A curated list of awesome educational games to learn software devolopment relate
 
 ## Regex
 
+- [Regex Cross word](https://regexcrossword.com) - Regex puzzles
+- [Regex Golf](https://alf.nu/RegexGolf?world=regex&level=r00) - Solve the regex problems.
 - [RegexOne](https://regexone.com/lesson/introduction_abcs) - Learn Regular Expressions with simple, interactive exercises.
 - [RegexLearn](https://regexone.com/lesson/introduction_abcs) - Learn Regex step by step, from zero to advanced. Learning Regex is easier than you think. You can use this tool to easily learn, practice, test and share Regex.
+- [RegHex](https://rampion.github.io/RegHex/) - the hexagonal regular expression puzzle.
+- [regxkcd](https://mekagem.itch.io/regxkcd) - Battle a powerful artificial intelligence in a game of regular expressions!
 - [Shlash\Escape](https://www.therobinlord.com/projects/slash-escape) - The first and only slasher themed text based RegEx learning game.
 
 
@@ -145,6 +169,9 @@ A curated list of awesome educational games to learn software devolopment relate
 
 - [_Terminal](https://terminal.c1games.com/) - Correlation One’s Terminal is a member of the Tower Defense game genre. It is a two-player, simultaneous-turns game that takes place on a diamond-shaped arena. One player occupies the bottom half of the arena, while the other player occupies the top half. The objective is to reduce your opponents health to zero. You can do this by advancing Mobile units to your opponent's edge and building Structures to protect your own edges.
 
+
+## Scala
+- [Scalatron](https://scalatron.github.io/index.html) - Scalatron is a free, open-source programming game in which bots, written in Scala, compete in a virtual arena for energy and survival. You can play by yourself against the computer or organize a tournament with friends. 
 
 ## SQL
 
