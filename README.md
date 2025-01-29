@@ -62,6 +62,7 @@ All are free if not marked differently.
 - [Hex Invaders](http://www.hexinvaders.com/) - Your objective is to destroy the invader that matches the supplied hex code at the top of your screen.
 - [Kerntype](https://type.method.ac/#) - A letter spacing game.
 - [Perfect Paragraph](https://betterwebtype.com/triangle/) - A web typography learning game.
+- [Coding Fantasy](https://codingfantasy.com) - Coding Fantasy is the next-generation platform for learning code by playing games that combines the missing parts of traditional learning: a tremendous amount of practice and an engaging learning environment.
 - [$] [Grid Critters](https://gridcritters.com) - Your mission is to use your ship's powerful Grid tool to save alien critters from extinction and learn CSS grid in the process!
 
 
@@ -107,6 +108,7 @@ All are free if not marked differently.
 - [WarriorJS](https://github.com/olistic/warriorjs) - Using JavaScript, program a warrior to climb a tall tower, fight monsters and rescue captives.
 - [Web Audio School](https://mmckegg.github.io/web-audio-school/) - Interactive WebAudio tutorials.
 - [YARE](https://yare.io) - RTS Game. Move your units writing JavaScript code.
+- [Coding Fantasy](https://codingfantasy.com) - Coding Fantasy is the next-generation platform for learning code by playing games that combines the missing parts of traditional learning: a tremendous amount of practice and an engaging learning environment.
 - [$] [Screeps](https://screeps.com) - Open-source game for programmers, wherein the core mechanic is programming
 your units' AI. You control your colony by writing JavaScript.
 - [$] [Service Workies](https://serviceworkies.com) - Learn Progressive Web App development. 
@@ -171,7 +173,10 @@ your units' AI. You control your colony by writing JavaScript.
 Take on the role of a Reactor Engineer working for SpaceChem, the leading chemical synthesizer for frontier colonies. Construct elaborate factories to transform raw materials into valuable chemical products! Streamline your designs to meet production quotas and survive encounters with the sinister threats that plague SpaceChem.
 - [$] [while True: learn()](https://store.steampowered.com/app/619150/while_True_learn/) - You’re a machine learning specialist who makes neural networks but your cat seems to be better at it. Now you must solve puzzles to build a cat-to-human translation system (who knows what else this cat is capable of!). Earn a fortune, buy kickass cat outfits, learn how machine learning really works!
 - [$] [Turing Complete](https://store.steampowered.com/app/1444480/Turing_Complete/) - Learn CPU architecture with puzzles
-
+- [$] [7 Billion Humans](https://store.steampowered.com/app/792100/7_Billion_Humans/) - Automate swarms of office workers to solve puzzles inside your very own parallel computer made of people. A thrilling followup to the award winning Human Resource Machine. Now with more humans!
+- [$] [Else Heart.Break()](https://store.steampowered.com/app/400110/Else_HeartBreak/) - An adventure game where you can hack the game world using a simplified programming language
+- [$] [Prime Mover](https://store.steampowered.com/app/693700/Prime_Mover) - A puzzle game about creating automated assembly lines using programming concepts
+- [$] [Gladiabots](https://gladiabots.com) - An AI programming game where you create behavior trees for robot battles
 
 
 ## Python
