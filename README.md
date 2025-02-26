@@ -63,6 +63,7 @@ All are free if not marked differently.
 - [Kerntype](https://type.method.ac/#) - A letter spacing game.
 - [Perfect Paragraph](https://betterwebtype.com/triangle/) - A web typography learning game.
 - [Coding Fantasy](https://codingfantasy.com) - Coding Fantasy is the next-generation platform for learning code by playing games that combines the missing parts of traditional learning: a tremendous amount of practice and an engaging learning environment.
+- [Anchoreum](https://anchoreum.com) - learn CSS through set of levels.
 - [$] [Grid Critters](https://gridcritters.com) - Your mission is to use your ship's powerful Grid tool to save alien critters from extinction and learn CSS grid in the process!
 
 
@@ -157,6 +158,7 @@ your units' AI. You control your colony by writing JavaScript.
 - [Screeps](https://screeps.com/) - The world's first MMO strategy sandbox game for programmers.
 - [Swift Playgrounds](https://www.apple.com/swift/playgrounds/) - Learn to code on your iPad in a seriously fun way.
 - [Turing Game](http://turing-game.pl) - Program the robot to help it escape from its cell.
+- [Codecombat](https://codecombat.com) - Learn to code and use AI, all through the power of play.
 - [$] [CodeGames](https://codegames.io/en) - Real time programming game where you compete against other players by coding the behaviour of a space ship. The programming language is easy to learn and the game is super fun. Subscribe to one of our tournaments and compete for the prize.
 - [$] [EXAPUNKS](https://store.steampowered.com/app/716490/EXAPUNKS/) - The year is 1997. You used to be a hacker, but now you have the phage. You made a deal: one hack, one dose. There’s nothing left to lose… except your life.
 - [$] [Factorio](https://www.factorio.com) - You will be mining resources, researching technologies, building infrastructure, automating production, and fighting enemies. Use your imagination to design your factory, combine simple elements into ingenious structures, apply management skills to keep it working, and protect it from the creatures who don't really like you.
@@ -215,6 +217,7 @@ Take on the role of a Reactor Engineer working for SpaceChem, the leading chemic
 
 - [SQL Murder Mystery](https://mystery.knightlab.com/) - Solve a crime while practicing database skills.
 - [SQL Island](https://sql-island.informatik.uni-kl.de) - After the survived plane crash, you will be stuck on SQL Island for the time being. By making progress in the game, you will find a way to escape from this island.
+- [SQL Noir](https://www.sqlnoir.com) - Solve mysteries through SQL.
 
 
 ## TypeScript
@@ -226,3 +229,5 @@ Take on the role of a Reactor Engineer working for SpaceChem, the leading chemic
 - [Cybersecurity Escape Room](https://eloeffler.gitlab.io/eloeffler/proto-vcser/)
 - [The Password Game](https://neal.fun/password-game/) - Set the right password
 - [HOCUS :FOCUS](https://focus.hteumeuleu.com) - A keyboard accessibility horror game.
+- [Dark Patterns](https://games.productartistry.com/games/dark-patterns) - Uncover the hidden design tricks that manipulate user decisions online.
+- [ZTYPE](https://zty.pe/?utm_source=unknownews) - Typing game
