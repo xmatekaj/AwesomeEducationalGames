@@ -64,6 +64,7 @@ All are free if not marked differently.
 - [Perfect Paragraph](https://betterwebtype.com/triangle/) - A web typography learning game.
 - [Coding Fantasy](https://codingfantasy.com) - Coding Fantasy is the next-generation platform for learning code by playing games that combines the missing parts of traditional learning: a tremendous amount of practice and an engaging learning environment.
 - [Anchoreum](https://anchoreum.com) - learn CSS through set of levels.
+- [Knights of the Flexbox Table](https://knightsoftheflexboxtable.com) - Flexbox in fantasy RPG game.
 - [$] [Grid Critters](https://gridcritters.com) - Your mission is to use your ship's powerful Grid tool to save alien critters from extinction and learn CSS grid in the process!
 
 
@@ -79,12 +80,14 @@ All are free if not marked differently.
 
 - [Learn Git Branching](https://learngitbranching.js.org/) - Interactive Git tutorial that emphasizes branching.
 - [Oh My Git!](https://ohmygit.org) - An open source game about learning Git!
+- [git-game](https://github.com/git-game/git-game) - This is a terminal game designed to test your knowledge of git commands. Each level in the game is a task to perform on this repo. Once you perform that task, you will be given your next task. There are a total of ten levels, each one harder than last!
 
 
 ## Hacking
 
 - [AIS Hack](https://hack.ainfosec.com) - Can you hack it? Javascript, cryptography, reverse engineering etc.
 - [XSS game](https://xss-game.appspot.com) - A game about tricking people into running code in their browsers.
+- [PicoCTF](https://picoctf.org) - Your cybersecurity journey at picoCTF continues at the CyLab Security Academy!
 
 
 # HTML
@@ -123,6 +126,9 @@ your units' AI. You control your colony by writing JavaScript.
 - [GameShell](https://github.com/phyver/GameShell) - a "game" to teach the Unix shell
 - [Command Challenge](https://cmdchallenge.com/) - Checks your terminal skills
 - [Halloween Server](https://joel.tools/halloween/) - A text adventure game
+- [OverTheWire: Bandit](https://overthewire.org/wargames/bandit/) - The Bandit wargame is aimed at absolute beginners. It will teach the basics needed to be able to play other wargames. If you notice something essential is missing or have ideas for new levels, please let us know!
+- [SadServers](https://sadservers.com) - Hands-On Linux & DevOps. Real Challenges. Real Infra. Real Skills.
+- [$] [Hacknet](https://store.steampowered.com/app/365450/Hacknet/) - Hacknet is an immersive, terminal-based hacking simulator for PC. Dive down a rabbit hoIe as you follow the instructions of a recently deceased hacker.
 
 
 ## Logical
@@ -136,6 +142,8 @@ your units' AI. You control your colony by writing JavaScript.
 -- Do not accept any terms & conditions.
 -- Say no to all notifications. 
 -- Always opt out of cookies.
+- [$] [Baba Is You](https://hempuli.com/baba/) - Baba Is You is a puzzle game where the rules you have to follow are present as physical objects in the game world. By manipulating the rules, you can change how the game works, repurpose things you find in the levels and cause surprising interactions!
+- [$] [Silicon Zeroes](https://store.steampowered.com/app/684270/Silicon_Zeroes/) - Build hardware. Solve puzzles. From the creator of Manufactoria, a new open-ended puzzle game set in Silicon Valley's first startup.
 
 
 ## Lua
@@ -179,6 +187,7 @@ Take on the role of a Reactor Engineer working for SpaceChem, the leading chemic
 - [$] [Else Heart.Break()](https://store.steampowered.com/app/400110/Else_HeartBreak/) - An adventure game where you can hack the game world using a simplified programming language
 - [$] [Prime Mover](https://store.steampowered.com/app/693700/Prime_Mover) - A puzzle game about creating automated assembly lines using programming concepts
 - [$] [Gladiabots](https://gladiabots.com) - An AI programming game where you create behavior trees for robot battles
+- [$] [Autonauts](https://store.steampowered.com/app/979120/Autonauts/) - In Autonauts you must build, create, and automate. Start by establishing a colony, crafting bots and teaching them via Scratch-style programming.
 
 
 ## Python
@@ -218,6 +227,7 @@ Take on the role of a Reactor Engineer working for SpaceChem, the leading chemic
 - [SQL Murder Mystery](https://mystery.knightlab.com/) - Solve a crime while practicing database skills.
 - [SQL Island](https://sql-island.informatik.uni-kl.de) - After the survived plane crash, you will be stuck on SQL Island for the time being. By making progress in the game, you will find a way to escape from this island.
 - [SQL Noir](https://www.sqlnoir.com) - Solve mysteries through SQL.
+- [Schemaverse](https://github.com/Abstrct/Schemaverse) - The Schemaverse is a space-based strategy game implemented entirely within a PostgreSQL database. Compete against other players using raw SQL commands to command your fleet. Or, if your PL/pgSQL-foo is strong, wield it to write AI and have your fleet command itself!
 
 
 ## TypeScript
@@ -231,3 +241,4 @@ Take on the role of a Reactor Engineer working for SpaceChem, the leading chemic
 - [HOCUS :FOCUS](https://focus.hteumeuleu.com) - A keyboard accessibility horror game.
 - [Dark Patterns](https://games.productartistry.com/games/dark-patterns) - Uncover the hidden design tricks that manipulate user decisions online.
 - [ZTYPE](https://zty.pe/?utm_source=unknownews) - Typing game
+- [Kubernetes Goat](https://madhuakula.com/kubernetes-goat/) - Interactive Kubernetes Security Learning Playground
