@@ -7,6 +7,7 @@ All are free if not marked differently.
 
 - [AI](#ai)
 - [Assembler](#assembler)
+- [Cryptography](#cryptography)
 - [CSS](#css)
 - [Editors](#editors)
 - [Git](#git)
@@ -25,6 +26,7 @@ All are free if not marked differently.
 - [Scala](#scala)
 - [SQL](#sql)
 - [TypeScript](#typescript)
+- [Quantum Computing](#quantumcomputing)
 - [Various](#various)
 
 
@@ -46,6 +48,13 @@ All are free if not marked differently.
 - [$] [TIS-100](https://www.zachtronics.com/tis-100/) - TIS-100 is an open-ended programming game in which you rewrite corrupted code segments to repair the TIS-100 and unlock its secrets. It's the assembly language programming game you never asked for!
 
 
+## Cryptography
+
+- [CRYPTOHACK](https://cryptohack.org) - A free, fun platform for learning modern cryptography
+- [cryptopals](https://cryptopals.com) - crypto challenges
+- [MysteryTwister](https://mysterytwister.org/challenges) - MysteryTwister is a cipher contest, where you can solve cryptographic riddles (challenges) of different difficulty levels. If you are successful, you will be inducted into the Hall of Fame.
+
+
 ## CSS
 
 - [CSS Battle](https://cssbattle.dev) - Replicate the target images using CSS - the shorter your code, the higher your score! 
@@ -57,7 +66,7 @@ All are free if not marked differently.
 - [Flexbox Froggy](http://flexboxfroggy.com/) - A game for learning CSS flexbox.
 - [Flexbox with Webflow](https://www.flexboxgame.com/) - Learn and master flexbox in 28 interactive levels—without writing code.
 - [Flexbox Defense](http://www.flexboxdefense.com) - Tower defense game. Put your towers on the map using CSS.
-- [Flexbox Zombies](https://flexboxzombies.com/p/flexbox-zombies) - Become an expert of layout with flexbox while trying to survive the zombie apocalypse.
+- [Flexbox Zombies](https://mastery.games/flexboxzombies/) - Become an expert of layout with flexbox while trying to survive the zombie apocalypse.
 - [Grid Garden](https://cssgridgarden.com/) - Learn CSS Grid by going through 28 levels of Grid Garden.
 - [Hex Invaders](http://www.hexinvaders.com/) - Your objective is to destroy the invader that matches the supplied hex code at the top of your screen.
 - [Kerntype](https://type.method.ac/#) - A letter spacing game.
@@ -234,7 +243,13 @@ Take on the role of a Reactor Engineer working for SpaceChem, the leading chemic
 - [CheckiO](https://checkio.org) - Coding games for beginners and advanced programmers where you can improve your coding skills by solving engaging challenges and fun task using Python and TypeScript
 
 
+## Quantum Computing
+- [Quantum Flytrap](https://quantumflytrap.com/virtual-lab/) - Virtual Lab by Quantum Flytrap is a no-code online laboratory with a real-time simulation of an optical table, supporting up to three entangled particles. A drag-and-drop graphical interface gives an easy way to create advanced quantum experiments. Virtual Lab is a tech demo of our proprietary quantum simulation numeric engine: installation-free, supporting a billion dimensions, performing computations in less than 100µs.
+
+
+
 ## Various
+
 - [Amazon S3 challenge](http://s3game-level1.s3-website.us-east-2.amazonaws.com) - Through a series of levels, you'll learn some of the Amazon S3 features.
 - [Cybersecurity Escape Room](https://eloeffler.gitlab.io/eloeffler/proto-vcser/)
 - [The Password Game](https://neal.fun/password-game/) - Set the right password
